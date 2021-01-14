@@ -8,9 +8,13 @@ School of Automation, Beijing Institute of Technology, Beijing, China
 
 ### Interests
 
-RL
+* Reinforcement Learning
+* Game Theory
 
 ### Education
+
+* Shandong University (2015-2019)
+
 
 
 
