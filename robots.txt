@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://balculus.github.io/sitemap.xml
