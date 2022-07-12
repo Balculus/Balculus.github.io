@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
 title: The Waking Sands
 description: Some ideas and knowledge
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
