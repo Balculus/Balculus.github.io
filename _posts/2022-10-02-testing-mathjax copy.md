@@ -7,6 +7,7 @@ date: 2020-10-02 15:32 +0800
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
+爱大富豪法师佛昂烦恼
 An inline math: \\\(E=mc^2\\\).
 
 A display math:
