@@ -14,6 +14,8 @@ School of Automation, Beijing Institute of Technology, Beijing, China
 ### Education
 
 * Shandong University (2015-2019)
+* Beijing Institute of Technology (2019-2022)
+* Working (Now)
 
 
 
